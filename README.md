@@ -1,1 +1,1 @@
-# Initial
+This is a sample file
